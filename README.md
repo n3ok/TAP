@@ -1,4 +1,0 @@
-TAP
-===
-
-PràcticaTap
